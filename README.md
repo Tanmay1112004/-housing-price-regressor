@@ -50,7 +50,13 @@ Frontend: HTML, CSS, JavaScript
 
 Machine Learning: scikit-learn, pandas, numpy
 
-Design: Responsive + Dark Mode
+![Screenshot 1](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114339.png?raw=true)
+
+![Screenshot 2](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114432.png?raw=true)
+
+![Your caption](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114339.png?raw=true)
+
+
 
 🏆 Why This Project Stands Out
 This isn't just another ML project. It's designed for real-world usability:
