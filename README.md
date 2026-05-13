@@ -20,6 +20,7 @@ A production-ready **Machine Learning + Flask** project that predicts housing pr
 
 ![demo](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114212.png)
 
+![demo](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114412.png)
 ---
 
 # 📌 Overview
