@@ -36,7 +36,7 @@ housing_regressor/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/housing-price-regressor.git
+git clone https://github.com/Tanmay1112004/housing-price-regressor.git
 cd housing-price-regressor
 
 2️⃣ Install dependencie
