@@ -16,6 +16,12 @@ A production-ready **Machine Learning + Flask** project that predicts housing pr
 
 ---
 
+## App Screenshots 
+
+![demo]()
+
+---
+
 # 📌 Overview
 
 Housing Price Regressor is a full-stack machine learning web application designed to estimate property prices based on user input data.  
