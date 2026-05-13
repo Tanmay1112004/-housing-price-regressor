@@ -25,11 +25,6 @@ housing_regressor/
 │ └── index.html
 └── model/ # Trained ML model files
 
-![Screenshot 1](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114339.png?raw=true)
-
-![Your caption](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114339.png?raw=true)
-
-![Screenshot 2](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114432.png?raw=true)
 
 
 ---
